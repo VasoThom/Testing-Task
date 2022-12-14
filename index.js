@@ -36,4 +36,6 @@ function aufgabe2(...args) {
 //console.log(aufgabe2(2, 1));
 //console.log(aufgabe2(-5, 2));
 
+// na kano aufgabe3
+
 module.exports = { aufgabe1, aufgabe2 };
